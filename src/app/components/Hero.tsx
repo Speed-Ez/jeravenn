@@ -1,6 +1,6 @@
-import packingImg from "figma:asset/7efef9847e5a42f8810474c41cfe9483dcac0989.png";
-import deliveryImg from "figma:asset/fcf9861636b7b93e1b77ac9fe40b698726a1182c.png";
-import truckImg from "figma:asset/7d16dca7ee0f60f1f0f9c9faab3b7f2e1d4c138d.png";
+import packingImg from "../../assets/7efef9847e5a42f8810474c41cfe9483dcac0989.png";
+import deliveryImg from "../../assets/fcf9861636b7b93e1b77ac9fe40b698726a1182c.png";
+import truckImg from "../../assets/7d16dca7ee0f60f1f0f9c9faab3b7f2e1d4c138d.png";
 import { CheckCircle, ArrowRight } from "lucide-react";
 import { useState, useEffect } from "react";
 
