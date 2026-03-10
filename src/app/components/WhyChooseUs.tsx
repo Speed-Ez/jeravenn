@@ -1,4 +1,4 @@
-import packingImg from "figma:asset/7efef9847e5a42f8810474c41cfe9483dcac0989.png";
+import packingImg from "../../assets/7efef9847e5a42f8810474c41cfe9483dcac0989.png";
 import { Zap, MapPin, Shield, Users, Settings, TrendingUp } from "lucide-react";
 
 const reasons = [
