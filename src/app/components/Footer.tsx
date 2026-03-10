@@ -1,4 +1,4 @@
-import logoImg from "figma:asset/32e381516cd8f43d0cadd6958a60dae189135fc2.png";
+import logoImg from "../../assets/32e381516cd8f43d0cadd6958a60dae189135fc2.png";
 import { MapPin, Phone, Mail, Instagram, Twitter, ArrowRight } from "lucide-react";
 
 const quickLinks = [
