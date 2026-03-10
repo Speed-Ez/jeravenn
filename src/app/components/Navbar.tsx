@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import logoImg from "figma:asset/32e381516cd8f43d0cadd6958a60dae189135fc2.png";
+import logoImg from "../../assets/32e381516cd8f43d0cadd6958a60dae189135fc2.png";
 import { Menu, X } from "lucide-react";
 
 const navLinks = [
